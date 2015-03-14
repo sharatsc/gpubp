@@ -1,0 +1,1 @@
+The project implements Belief propagation on a discrete bayesian network using GPU. Parallel updates are used to speed up the process.
